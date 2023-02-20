@@ -18,7 +18,7 @@ public class Lab_06_04_MetricConverter {
         else
         {
             trash = in.nextLine(); // stores input in this variable if the test is failed
-            System.out.println("Must enter valid value for measurement in meters " + trash); // outputs to show user their mistake
+            System.out.println("Must enter valid value for measurement in meters " + trash); // output to show user their mistake
         }
         miles = meters/1609.344; // calculates number of miles
         System.out.println(meters + " meters in miles is " + miles); // outputs result

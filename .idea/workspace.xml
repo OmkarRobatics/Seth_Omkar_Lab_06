@@ -4,19 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="054eca5e-c2e1-4b15-9c60-43be3515389b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Seth_Omkar_Lab_06.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_06_01_CtoConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_06_02_FuelCosts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_06_03_RectangleInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_06_04_MetricConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lab_06_05_HighorLow.java" afterDir="false" />
+    <list default="true" id="054eca5e-c2e1-4b15-9c60-43be3515389b" name="Changes" comment="Seth_Omkar_Lab_06">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +38,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Lab_06_05_HighorLow">
@@ -107,6 +97,18 @@
       <option name="presentableId" value="Default" />
       <updated>1676674927540</updated>
     </task>
+    <task id="LOCAL-00001" summary="Seth_Omkar_Lab_06">
+      <created>1676854483853</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676854483853</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Seth_Omkar_Lab_06" />
+    <option name="LAST_COMMIT_MESSAGE" value="Seth_Omkar_Lab_06" />
   </component>
 </project>

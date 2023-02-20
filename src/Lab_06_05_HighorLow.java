@@ -26,7 +26,7 @@ public class Lab_06_05_HighorLow {
         }
         else if (guess < val) // tests if guess is less than number
         {
-            System.out.println("Your guess was to low. The correct answer was: " + val); // outputs if test passes
+            System.out.println("Your guess was to low. The correct answer was: " + val); // output if test passes
         }
         else // number is equal to guess
         {

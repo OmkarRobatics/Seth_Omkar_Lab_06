@@ -42,7 +42,7 @@ public class Lab_06_02_FuelCosts {
         else // input is not a double value
         {
             trash = in.nextLine(); // input is stored in this variable if test fails
-            System.out.println("Must enter valid value for gas price " + trash); //outputs to show the user their mistake
+            System.out.println("Must enter valid value for gas price " + trash); //output to show the user their mistake
         }
     hundredMileCost = 100/milesPerGallon; // calculates number of gallons needed to travel 100 miles
     hundredMileCost = gasPricePerGallon*hundredMileCost; // calculates hundred mile cost
