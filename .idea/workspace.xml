@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="054eca5e-c2e1-4b15-9c60-43be3515389b" name="Changes" comment="Seth_Omkar_Lab_06">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="054eca5e-c2e1-4b15-9c60-43be3515389b" name="Changes" comment="complete" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,11 +102,33 @@
       <option name="project" value="LOCAL" />
       <updated>1676854483853</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Seth_Omkar_Lab_06">
+      <created>1676855112238</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676855112238</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Seth_Omkar_Lab_06">
+      <created>1676855230171</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676855230171</updated>
+    </task>
+    <task id="LOCAL-00004" summary="complete">
+      <created>1676855283788</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676855283788</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Seth_Omkar_Lab_06" />
-    <option name="LAST_COMMIT_MESSAGE" value="Seth_Omkar_Lab_06" />
+    <MESSAGE value="complete" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete" />
   </component>
 </project>
