@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="054eca5e-c2e1-4b15-9c60-43be3515389b" name="Changes" comment="complete" />
+    <list default="true" id="054eca5e-c2e1-4b15-9c60-43be3515389b" name="Changes" comment="complete 2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,12 +123,20 @@
       <option name="project" value="LOCAL" />
       <updated>1676855283788</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="complete 2">
+      <created>1676855521660</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676855521660</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Seth_Omkar_Lab_06" />
     <MESSAGE value="complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete" />
+    <MESSAGE value="complete 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete 2" />
   </component>
 </project>

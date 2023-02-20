@@ -30,7 +30,7 @@ public class Lab_06_05_HighorLow {
         }
         else // number is equal to guess
         {
-            System.out.println("Your guess is correct!"); // outputs user is correct
+            System.out.println("Your guess is correct!"); // outputs user is correct!
         }
     }
 }
