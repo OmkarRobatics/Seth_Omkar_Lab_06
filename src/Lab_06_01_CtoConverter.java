@@ -18,8 +18,8 @@ public class Lab_06_01_CtoConverter {
             trash = in.nextLine(); // if test fails the input is stored in this variable
             System.out.println("Must enter valid temperature:" + trash); // output to tell user the mistake
         }
-        tempInF = ((inputtedCTemp*9)/5) + 32; // finds the conversion of C into F
-        System.out.println(inputtedCTemp + " Degrees Celsius in Fahrenheit is " + tempInF + " Degrees."); // outputs the conversion
+        tempInF = ((inputtedCTemp*9)/5) + 32; //  finds the conversion of C into F
+        System.out.println(inputtedCTemp + " Degrees Celsius in Fahrenheit is " + tempInF + " Degrees."); // outputs the conversions
 
     }
 }

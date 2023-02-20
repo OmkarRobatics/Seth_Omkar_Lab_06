@@ -36,7 +36,7 @@ public class Lab_06_03_RectangleInfo {
        }
 
         perimeter = side1Length * 2 + side2Length * 2; // calculates perimeter
-        System.out.println("The perimeter of the rectangle is " + perimeter); // output perimeter
+        System.out.println("The perimeter of the rectangle is " + perimeter); // output perimeters
         area = side1Length*side2Length; // calculates area
         System.out.println("The area of the rectangle is " + area); // outputs area
         diagonalLength = Math.sqrt(side1Length*side1Length + side2Length*side2Length); // calculates diagonal length

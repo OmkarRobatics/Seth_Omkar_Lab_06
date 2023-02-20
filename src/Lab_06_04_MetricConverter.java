@@ -12,7 +12,7 @@ public class Lab_06_04_MetricConverter {
         System.out.print("Enter a measurement in meters: "); // prompts user
         if (in.hasNextDouble()) // tests if the inputted value is a double
         {
-            meters = in.nextDouble(); // stores input in this variable if the test passes
+            meters = in.nextDouble(); // stores input in this variable if the test pass
             in.nextLine(); // clears buffer
         }
         else

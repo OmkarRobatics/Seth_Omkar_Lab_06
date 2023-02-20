@@ -44,7 +44,7 @@ public class Lab_06_02_FuelCosts {
             trash = in.nextLine(); // input is stored in this variable if test fails
             System.out.println("Must enter valid value for gas price " + trash); //output to show the user their mistake
         }
-    hundredMileCost = 100/milesPerGallon; // calculates number of gallons needed to travel 100 miles
+    hundredMileCost = 100/milesPerGallon; // calculates number of gallons needed to travel 100 mile
     hundredMileCost = gasPricePerGallon*hundredMileCost; // calculates hundred mile cost
         System.out.println("It will cost $" + hundredMileCost + " to travel a hundred miles."); // outputs cost
 milesCarCanTravel = milesPerGallon*numberOfGallonsInTank; // calculates how many more miles car can travel
